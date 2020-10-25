@@ -32,7 +32,7 @@ namespace FriendlyFireRoundEnd
 	{
 		private Plugin plugin;
 
-		public ARDisable(Plugin plugin)
+		public FFREDisable(Plugin plugin)
 		{
 			this.plugin = plugin;
 		}
